@@ -1,0 +1,2 @@
+# Azure_VirtualNetwork_GetInformations
+PowerShell to retriver Virtual Network informations
